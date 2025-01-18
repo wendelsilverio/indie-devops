@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Features and tools list to be added in the future.
 - Initial project setup with basic folder structure and files.
 
 ### Fixed
