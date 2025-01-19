@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- My VSCode extensions recommendations.
+- CasaOS installation script for Ubuntu.
 - Features and tools list to be added in the future.
 - Initial project setup with basic folder structure and files.
 

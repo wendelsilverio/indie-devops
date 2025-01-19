@@ -6,10 +6,6 @@ The ultimate open-source toolkit for solo developers and indie hackers.
 
 ![Indie DevOps](./docs/images/indie-devops.png)
 
-## 🚀 Getting Started
-
-The [CasaOS](https://www.casaos.io/) is the operational system defined to run the Indie DevOps toolkit.
-
 ## 🧩 Features
 
 This toolkit includes multiple options for each function, which can lead to analysis paralysis but provides flexibility for various types of environments and preferences.
@@ -110,6 +106,26 @@ Security testing tools to identify and mitigate vulnerabilities:
 - ⬜ [Ansible](https://www.ansible.com/): An IT automation tool for configuration management and infrastructure automation.
 - ⬜ [Puppet](https://puppet.com/): A configuration management tool for automating infrastructure.
 - ⬜ [OpenVAS](https://www.openvas.org/): An open-source vulnerability scanner.
+
+## 🚀 Getting Started
+
+## Setup on MS Windows with WSL
+
+To install Indie DevOps environment, follow these steps:
+
+1. [Install Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+2. [Install Ubuntu WSL2](https://documentation.ubuntu.com/wsl/en/latest/guides/install-ubuntu-wsl2/)
+
+3. [Setup VsCode to access WSL and Ubuntu](https://code.visualstudio.com/docs/remote/wsl)
+  
+   - After installation, [open a WSL window directly from VS Code](https://code.visualstudio.com/docs/remote/wsl#_from-vs-code)
+   - Open a terminal into VSCode and create the _code_ folder (`mkdir code`)
+   - In _Welcome_ page > _Clone Git Repository..._ > _Clone from Github_ > `https://github.com/wendelsilverio/indie-devops.git` and select `code` folder
+
+4. Run `./casaos/install.sh` script to install CasaOS on Ubuntu
+
+Once the installation is complete, you can access CasaOS via your web browser.
 
 ## 📜 Changelog
 

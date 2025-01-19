@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "davidanson.vscode-markdownlint",
+    "dracula-theme.theme-dracula",
+    "ms-vscode-remote.remote-wsl",
+    "yzhang.markdown-all-in-one"
+  ]
+}
